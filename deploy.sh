@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# 关联远程分支
+# 关联远程仓库
 git remote add origin https://github.com/songzi0321/songzi.github.io.git
  
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
