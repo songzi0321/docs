@@ -1,6 +1,6 @@
 module.exports = {
   title: '朽木白知识天地',
-  base: '/',
+  base: './',
   description:
     '朽木白的学习基地是朽木白的个人博客，用于记录学习笔记、分享音乐、书籍、旅行等个人兴趣的站点。',
   head: [
